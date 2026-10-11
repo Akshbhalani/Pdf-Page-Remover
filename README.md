@@ -10,16 +10,6 @@ A free, browser-based tool for removing pages from PDF files. Choose pages to de
 - Files are processed in your browser and are not uploaded or saved by the site.
 - No sign-up or build step required.
 
-## Run locally
-
-Keep `index.html`, `pdf.min.js`, `pdf-lib.min.js`, and `pdf.worker.min.js` together. From this folder, start a local static web server, for example:
-
-```sh
-python -m http.server 8000
-```
-
-Then open <http://localhost:8000> in your browser.
-
 ## Use
 
 1. Upload a PDF by dropping it onto the page or choosing a file.
